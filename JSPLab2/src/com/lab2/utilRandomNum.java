@@ -18,5 +18,8 @@ public class utilRandomNum {
 	public void print2(){
 		System.out.println("hi Reham");
 	}
+	public void print3(){
+		System.out.println("Offffffff");
+	}
 
 }
