@@ -12,5 +12,8 @@ public class utilRandomNum {
 	    	return n;
 	    	
 	    }
+	public void print(){
+		System.out.println("hi samer");
+	}
 
 }
