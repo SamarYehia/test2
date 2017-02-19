@@ -24,5 +24,8 @@ public class utilRandomNum {
 	public void print4(){
 		System.out.println("on");
 	}
+	public void print5(){
+		System.out.println("yes");
+	}
 
 }
