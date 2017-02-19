@@ -21,5 +21,8 @@ public class utilRandomNum {
 	public void print3(){
 		System.out.println("Offffffff");
 	}
+	public void print4(){
+		System.out.println("on");
+	}
 
 }
