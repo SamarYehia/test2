@@ -26,6 +26,7 @@ public class utilRandomNum {
 	}
 	public void print5(){
 		System.out.println("yes");
+		System.out.println("Nooooooooo");
 	}
 
 }
